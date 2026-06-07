@@ -32,7 +32,7 @@ Synthetic financial dataset with features:
 ## 🚀 How to Run
 1. Clone this repository
 ```bash
-git clone https://github.com/YourUsername/CodeAlpha_CreditScoringModel
+git clone https://github.com/24a31a43a0/CodeAlpha_CreditScoringModel.git
 ```
 2. Install dependencies
 ```bash
