@@ -47,14 +47,14 @@ jupyter notebook CodeAlpha_CreditScoringModel.ipynb
 ## 📈 Results
 | Model | Accuracy | ROC-AUC |
 |---|---|---|
-| Logistic Regression | ~XX% | ~X.XX |
-| Decision Tree | ~XX% | ~X.XX |
-| Random Forest | ~XX% | ~X.XX |
+| Logistic Regression | 0.350| 0.761 |
+| Decision Tree | 1.0000| 1.0000|
+| Random Forest | 1.0000| 1.0000|
 
 *(Update after running)*
 
 ## 👤 Author
-**Your Name**
+Venum Mery
 CodeAlpha ML Intern
 
 ---
